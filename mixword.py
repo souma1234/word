@@ -9,7 +9,7 @@ for i in range(int(z)):
         y=input("please inter the letter: ")
 
         if y in x:
-            print("letter exists already")
+            print("letter exists already repeat agian ")
             break
 
         else:
